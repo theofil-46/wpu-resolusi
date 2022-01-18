@@ -3,9 +3,11 @@ RENCANA KONTEN THEO
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ vue
     ^ React
+- Struktur Data Dasar
 - PHP Framework
-  ^ Laravel
+    ^ Laravel
 - Interview
 - Vlogs
+- Python
