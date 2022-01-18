@@ -1,0 +1,8 @@
+RENCANA KONTEN THEO
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework
+- Interview
+- Vlogs
